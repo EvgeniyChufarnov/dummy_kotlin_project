@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Dummy kotlin project</string>
     <string name="show_the_toast">Show the toast</string>
+    <string name="some_text">Some text</string>
 </resources>
